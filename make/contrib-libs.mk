@@ -1318,7 +1318,7 @@ $(D)/libvorbisidec: $(D)/bootstrap $(D)/libogg $(ARCHIVE)/$(LIBVORBISIDEC_SOURCE
 #
 # libiconv
 #
-LIBICONV_VER = 1.15
+LIBICONV_VER = 1.18
 LIBICONV_SOURCE = libiconv-$(LIBICONV_VER).tar.gz
 
 $(ARCHIVE)/$(LIBICONV_SOURCE):
